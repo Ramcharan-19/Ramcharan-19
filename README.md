@@ -1,6 +1,7 @@
 # Hi there, I'm Ram Charan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in machine learning and data science. Here's a little about me:
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in machine learning and data science.
+Here's a little about me:
 
 ## 🚀 About Me
 
