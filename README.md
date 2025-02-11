@@ -35,7 +35,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramcharan-19&show_icons=true&theme=radical)](https://github.com/Ramcharan-19)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramcharan-19&show_icons=true&theme=radical&v=1)](https://github.com/Ramcharan-19)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramcharan-19&layout=compact&theme=radical)](https://github.com/Ramcharan-19)
 
